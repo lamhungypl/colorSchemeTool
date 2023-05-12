@@ -1,12 +1,12 @@
 <scheme name="Twilight" parent_scheme="Darcula" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="141414" />
-    <option name="INDENT_GUIDE" value="4E4E4E" />
+    <option name="LINE_NUMBERS_COLOR" value="F8F8F8" />
     <option name="SELECTION_BACKGROUND" value="3C3F42" />
     <option name="CARET_ROW_COLOR" value="1B1B1B" />
     <option name="WHITESPACES" value="4E4E4E" />
     <option name="CARET_COLOR" value="A7A7A7" />
-    <option name="LINE_NUMBERS_COLOR" value="F8F8F8" />
+    <option name="INDENT_GUIDE" value="4E4E4E" />
     <option name="SELECTED_INDENT_GUIDE" value="4E4E4E" />
     <option name="GUTTER_BACKGROUND" value="141414" />
   </colors>
